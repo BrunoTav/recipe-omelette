@@ -138,14 +138,14 @@ aside>ul{
 }
 @media screen and (min-width:750px){
   .pai{
-    margin-top:25px;
-    margin-bottom:30px;
+    margin-top:55px;
+    margin-bottom:60px;
     border-radius:10px;
-    padding-right:40px;
+    padding-right:60px;
   }
   img{
-    margin-top:20px;
-    margin-left:20px;
+    margin-top:40px;
+    margin-left:40px;
     margin-right:20px;
   }
 }
