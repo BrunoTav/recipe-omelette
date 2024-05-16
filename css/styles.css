@@ -136,7 +136,7 @@ aside>ul{
   color:var(--Nutmeg);
   margin-left:-20px;
 }
-@media screen and (min-width:900px){
+@media screen and (min-width:750px){
   .pai{
     margin-top:25px;
     margin-bottom:30px;
