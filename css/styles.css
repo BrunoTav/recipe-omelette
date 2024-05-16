@@ -128,7 +128,7 @@ aside>ul{
   border-bottom:1px solid var(--LightGrey);
   width:100%;
 }
-aside ul div li{
+.medidas{
   color:var(--Nutmeg);
   margin-left:-20px;
 }
